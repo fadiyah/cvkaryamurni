@@ -1,3 +1,15 @@
 D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.csproj.CoreCompileInputs.cache
 D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.AssemblyInfoInputs.cache
 D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.AssemblyInfo.cs
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\bin\Debug\netcoreapp2.1\RESTApi.deps.json
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\bin\Debug\netcoreapp2.1\RESTApi.runtimeconfig.json
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\bin\Debug\netcoreapp2.1\RESTApi.runtimeconfig.dev.json
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\bin\Debug\netcoreapp2.1\RESTApi.dll
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\bin\Debug\netcoreapp2.1\RESTApi.pdb
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.csprojAssemblyReference.cache
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.RazorAssemblyInfo.cache
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.RazorAssemblyInfo.cs
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.RazorTargetAssemblyInfo.cache
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.dll
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.pdb
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
