@@ -1,0 +1,3 @@
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.csproj.CoreCompileInputs.cache
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.AssemblyInfoInputs.cache
+D:\Project\karyamurni\cvkaryamurni\RESTApi\RESTApi\obj\Debug\netcoreapp2.1\RESTApi.AssemblyInfo.cs
